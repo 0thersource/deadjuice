@@ -1,2 +1,2 @@
 # deadjuice
-deadfish compiler written in C
+deadfish interpreter written in C
